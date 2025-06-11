@@ -1,0 +1,30 @@
+.Retrieve {
+    border: 1px solid black;
+    width: 92%;
+    height: 75vh;
+  }
+  .find {
+    height: 8%;
+    width: 50%;
+  }
+  .find-form {
+    height: 100%;
+    display: flex;
+  }
+  .search-aadhar {
+    text-align: center;
+    margin-right: 2%;
+  }
+  .search-aadhar:focus {
+    outline: none;
+  }
+  .find-btn {
+    border: none;
+    background-color: #4472c4;
+    color: white;
+    width: 20%;
+  }
+  .result {
+    margin: 2% 3% 0% 3%;
+    width: 92%;
+  }
