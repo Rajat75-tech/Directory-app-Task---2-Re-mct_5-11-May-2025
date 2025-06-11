@@ -1,3 +1,35 @@
+# 🗂️ Directory Web
+
+A simple React + Vite application to manage and display personal information in a table format, with features to add, save, and delete entries using localStorage.
+
+## 🚀 Project Features
+
+- 📄 Add new person details (Name, DOB, Aadhar, Mobile)
+- 📆 Automatic age calculation from DOB
+- 💾 Data stored in browser `localStorage`
+- ❌ Delete any entry by Aadhar number
+- 🧾 Form validation for inputs
+
+## 🧰 Tech Stack
+
+- ⚛️ React
+- ⚡ Vite
+- 📦 localStorage for persistence
+- 🎨 CSS for styling
+
+---
+
+## 🛠️ Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Rajat75-tech/Directory-app-Task---2-Re-mct_5-11-May-2025.git
+cd Directory-app-Task---2-Re-mct_5-11-May-2025
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
